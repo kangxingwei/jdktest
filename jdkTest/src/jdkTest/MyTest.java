@@ -10,7 +10,7 @@ public class MyTest {
 		    System.out.print( e );
 		    System.out.print( e );
 		} );*/
-		//Arrays.asList( "a", "b", "d" ).sort( ( e1, e2 ) -> e1.compareTo( e2 ) );
+		//Arrays.asList( "a", "b", "d" ).sort( ( e1, e2 ) -> e1.compareTo( e2 ) );     //fgfgfgfgf
 		
 		final Car car = Car.create( Car::new );
 		final List< Car > cars = Arrays.asList( car );
@@ -21,6 +21,8 @@ public class MyTest {
 		cars.forEach( police::follow );
 
 
+		System.out.println("dfdfsfsd");
+		System.out.println("dfdfsfsd");
 		
 		
 		
