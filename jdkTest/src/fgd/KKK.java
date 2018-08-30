@@ -3,17 +3,17 @@ package fgd;
 public class KKK {
 
 	public static void main(String[] args) {
-		//sdfsdfdfdfkjisfkfdsf test moosdfk
-		//dsfiksjdfisdfkjkjk
-// Upstream, based on branch 'test' of https://github.com/kangxingwei/jdktest
-		//fdgfdgdfg
-		//fdgfg
+		//sdfsdfghdfdfkjisfkfdsf test moosdfk
+		//dsfiksghjdfisdfkjkjk
+// Upstream, baghsed on branch 'test' of https://github.com/kangxingwei/jdktest
+		//fdgghfdgdfg
+		//fdgghfg
 //
-		//gdfgdfg/fdgdfgdf/dfgdf
+		//gdfgdfghg/fdgdfgdf/dfgdf
 		
-		//fdgdfgdfdfgfdg/
-//   e846c3d fghjkkjljk
-		//fdgdfgfdgkjljk
-		//dsfsdfsdfkkjl
+		//fdgdfgghdfdfgfdg/
+//   e846c3d fghjghkkjljk
+		//fdgdfgfdghgkjljk
+		//dsfsdfsdgfkkjl
 	}
 }
