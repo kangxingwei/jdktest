@@ -6,6 +6,7 @@ public class LLL {
 	/**
 	 * 
 	 * 
+<<<<<<< HEAD
 <<<<<<< Upstream, based on branch 'test' of https://github.com/kangxingwei/jdktest
 	 * fhgjhhjjhhjjhddf11111
 =======
@@ -17,9 +18,13 @@ public class LLL {
 ghfghfgh
 
 	 * dfdfdf
+=======
+	 * fhgjhhjjhhjjhddf1fggfg1111
 	 * 
+>>>>>>> refs/remotes/origin/test
 	 * 
-	 * 
+	 * fgfgfgfgf
+	 * vvbcvbcv
 	 * 
 	 */
 }
