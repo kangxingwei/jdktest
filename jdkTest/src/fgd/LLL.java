@@ -23,11 +23,17 @@ dsfsdf
 >>>>>>> refs/remotes/origin/test
 	 * vxcvxcvxcv45454545
 	 * fgfgfgfgf
+<<<<<<< HEAD
 	 * vvbcvbcvdfsdfsdf
 	 * dsfsdf
 	 * sdfsdf
 	 * sdfsdf
 	 * dsfsdfds
+=======
+	 * vvbcvbcv
+	 fdgdfgdfgfdgdfgfdg
+	 11111111111111111111111111111111111111111111
+>>>>>>> refs/remotes/origin/test
 	 * 
 	 */
 }
