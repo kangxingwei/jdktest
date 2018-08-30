@@ -31,11 +31,28 @@ dsfsdf
 	 * dsfsdfds
 =======
 	 * vvbcvbcv
+<<<<<<< Upstream, based on branch 'test' of https://github.com/kangxingwei/jdktest
 	 fdgdfgdfgfdgdfgfdg
 	 11111111111111111111111111111111111111111111
 >>>>>>> refs/remotes/origin/test
 
 dsfsdfsdfsdfsdfs2222222222222
+=======
+	 fdgdfgdfgfdgddsffgfdg
+	 111111111111dsfsdfsd11111111111111111111111111111111
+>>>>>>> refs/remodsfsdfdsfsdfsfsdftes/origin/testeererererererdfsdfsd
+sdfsdf
+
+dsfs
+df
+sdf
+sd
+f
+sd
+f
+sdf
+
+>>>>>>> b7c30ae sdfghjkdsfsdfdsfdf
 	 * 
 	 */
 }
