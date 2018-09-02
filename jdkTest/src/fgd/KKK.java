@@ -25,7 +25,7 @@ public class KKK {
 // Upstream, based on branch 'test' of https://github.com/kangxingwei/jdktest
 		//fdkjfgkfdjgk大幅度发生的djfkfffff
 //ddfdfdfdfdf
-		//fdkjfgkfdjgkdsfsddjfkffffdsfsdffsdfsd
+		//fdkjfgkf的所发生的发送到djgkdsfsddjfkffffdsfsdffsdfsd
 //
 
 
